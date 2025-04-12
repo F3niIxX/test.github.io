@@ -1,0 +1,21 @@
+{
+  "type": "menu",
+  "title": "Мій перший MSX додаток",
+  "items": [
+    {
+      "label": "Привіт, світ!",
+      "action": {
+        "type": "message",
+        "title": "Привіт!",
+        "text": "Це моє перше меню в Media Station X!"
+      }
+    },
+    {
+      "label": "Посилання на сайт",
+      "action": {
+        "type": "open",
+        "url": "https://sweet.tv/uk"
+      }
+    }
+  ]
+}
