@@ -1,20 +1,20 @@
 {
   "type": "menu",
-  "title": "Мій перший MSX додаток",
+  "title": "Meu primeiro aplicativo MSX",
   "items": [
     {
-      "label": "Привіт, світ!",
+      "label": "Olá, mundo!",
       "action": {
         "type": "message",
-        "title": "Привіт!",
-        "text": "Це моє перше меню в Media Station X!"
+        "title": "Olá!",
+        "text": "Este é o meu primeiro menu no Media Station X!"
       }
     },
     {
-      "label": "Посилання на сайт",
+      "label": "Link para o site",
       "action": {
         "type": "open",
-        "url": "https://sweet.tv/uk"
+        "url": "https://google.com"
       }
     }
   ]
